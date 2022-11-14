@@ -1,3 +1,3 @@
 console.log("config.js");
-console.log("v2");
+console.log("v1");
 console.log("dfg");
