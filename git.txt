@@ -7,6 +7,9 @@
 -   Remove files/folders from Staged Changes
     -> git reset [ file | folder | . ]
 
+-   Reset changed files/folders to last commit
+    -> git checkout -- [ file | folder | . ]
+
 -   Save changes to the repository with given log message
     -> git commit -m "describe changes"
 
