@@ -1,0 +1,12 @@
+-   Initialize .git folder on current working directory
+    ->  git init
+
+-   Add files/folders to Staged Changes
+    ->  git add [ file | folder| . ]
+
+-   Remove files/folders from Staged Changes
+    -> git reset [ file | folder | . ]
+
+-   Save changes to the repository with given log message
+    -> git commit -m "describe changes"
+
