@@ -13,3 +13,6 @@
 -   Save changes to the repository with given log message
     -> git commit -m "describe changes"
 
+-   Restore code to a given source code version.
+    -> git checkout  [ commit hash | branch name ]
+    NOTE: git log -all will display current version as (Head)
